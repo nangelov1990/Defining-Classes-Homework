@@ -1,0 +1,6 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\bin\Debug\SoftUni Learning System.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\bin\Debug\SoftUni Learning System.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\bin\Debug\SoftUni Learning System.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\obj\Debug\SoftUni Learning System.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\obj\Debug\SoftUni Learning System.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\SoftUni Learning System\obj\Debug\SoftUni Learning System.pdb

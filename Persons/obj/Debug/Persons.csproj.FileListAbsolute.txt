@@ -1,0 +1,12 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\bin\Debug\Persons.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\bin\Debug\Persons.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\bin\Debug\Persons.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\obj\Debug\Persons.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Persons\Persons\obj\Debug\Persons.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\bin\Debug\Persons.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\obj\Debug\Persons.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\obj\Debug\Persons.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\bin\Debug\Persons.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\bin\Debug\Persons.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\01. Defining-Classes\Homework\Defining-Classes-Homework\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
