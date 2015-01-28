@@ -69,7 +69,7 @@
             Console.WriteLine("Current Students\n");
 
             foreach (var student in students
-                .Where(student => (student.GetType() == typeof(OnlineStudent) || student.GetType() == typeof(OnsiteStudent)))
+                .Where(student => student is CurrentStudent)
                 .OrderBy(student => student.AverageGrade))
             {
                 Console.WriteLine(student);
@@ -92,7 +92,7 @@
             Console.WriteLine("Graduate students\n");
 
             foreach (var student in students
-                .Where(student => student.GetType() == typeof(GraduateStudent))
+                .Where(student => student is GraduateStudent)
                 .OrderBy(student => student.AverageGrade))
             {
                 Console.WriteLine(student);
@@ -102,7 +102,7 @@
             Console.WriteLine("Dropout students\n");
 
             foreach (var student in students
-                .Where(student => student.GetType() == typeof(DropoutStudent))
+                .Where(student => student is DropoutStudent)
                 .OrderBy(student => student.AverageGrade))
             {
                 Console.WriteLine(student);
